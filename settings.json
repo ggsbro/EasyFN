@@ -1,16 +1,16 @@
 {
-    "platform": "Playstation",
-    "account": {
+    "platform": "Mobile",
+    "AzuGhoulz": {
       "deviceID": "",
       "accountID": "",
       "secret": ""
     },
     "cosmetics": {
-      "skin": "Skull Trooper",
-      "backpack": "",
-      "emote": "Floss",
+      "skin": "Pink Ghoul Trooper",
+      "backpack": "Six String",
+      "emote": "Scenario",
       "emoji": "",
-      "pickaxe": "",
+      "Raiders Revenge": "",
       "pet": ""
     },
     "cosmetics_variants": {
@@ -19,5 +19,5 @@
       "pickaxe": [],
       "pet": []
     },
-    "owners": ["LupusLeaks YT"]
+    "owners": ["SkitnePakkis "]
   }
